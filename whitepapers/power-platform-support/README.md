@@ -1,5 +1,5 @@
-# Power Platform Government Support Links
-Below are the links to submit a ticket for any unexpected errors or issues when working with the Power Platform service in GCC, GCC High or DOD.  
+# Power Platform Government/Commercial Support Links
+Below are the links to submit a ticket for any unexpected errors or issues when working with the Power Platform service in GCC, GCC High, DOD, or Commercial.  
 
 Details to create a Support ticket can be found below,
 
